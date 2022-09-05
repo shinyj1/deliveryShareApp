@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">deliveryShareApp</string>
+    <string name="post_title">돈까스 같이 시켜먹어요</string>
+    <string name="status">마감</string>
+    <string name="count">1/4명</string>
+    <string name="option">같이 먹어요</string>
+    <string name="category"><u>돈까스·회·일식</u></string>
+    <string name="created_at">07/06 09:24</string>
+    <string name="report">사용자 신고</string>
+    <string name="mypage">마이페이지</string>
+    <string name="user_nickname">닉네임</string>
+    <string name="user_addr">성북구 돈암동</string>
+    <string name="chat">채팅</string>
+    <string name="content">돈까스 같이 시켜먹을 사람 구해요~ 성신여대입구역 1번 출구에서 만나요.</string>
+    <string name="navigation_home">홈</string>
+    <string name="navigation_chat">채팅</string>
+    <string name="navigation_mypage">마이페이지</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
